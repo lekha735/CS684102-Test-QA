@@ -1,3 +1,4 @@
+
 package com.org;
 
 import java.net.URL;
@@ -35,8 +36,7 @@ public class GETURLCheck {
 		catch (IOException e) {
 
 			e.printStackTrace();
-			
-		
 		}
 	}
 }
+
