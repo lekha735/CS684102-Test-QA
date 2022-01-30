@@ -36,7 +36,7 @@ public class GETURLCheck {
 
 			e.printStackTrace();
 			
-			//check comment
+		
 		}
 	}
 }
